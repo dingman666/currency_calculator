@@ -39,5 +39,7 @@ cx 1000 € to ¥
 - KRW (₩)
 - ILS (₪)
 - INR (₹)
-
+- 
+搭配WOX插件使用
+https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-Full-Installer.1.4.1196.exe
 
