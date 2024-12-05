@@ -1,0 +1,12 @@
+{
+    "ID": "currency_calculator",
+    "ActionKeyword": "cx",
+    "Name": "Currency Calculator",
+    "Description": "Multi-function currency calculator with crypto support",
+    "Author": "DingMan",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://x.com/Ting__HK",
+    "IcoPath": "Images\\icon.ico",
+    "ExecuteFileName": "main.py"
+}
